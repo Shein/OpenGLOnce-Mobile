@@ -38,6 +38,7 @@
  *
  * Fixing the program to send less polygons to the GPU is left
  * as an exercise to the reader. As always, patches welcomed :-)
+ * zoinks
  */
 package com.loft.ndkgl;
 
